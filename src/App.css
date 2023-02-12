@@ -24,6 +24,19 @@
   color: white;
 }
 
+.nav-font {
+  font-size: 0.9rem;
+  color: black;
+}
+
+.btn-custom {
+  font-size: 0.9rem;
+  padding: 7px 25px;
+  background-color: black;
+  color: #fff;
+  border-radius: 50px;
+}
+
 .App-link {
   color: #61dafb;
 }
